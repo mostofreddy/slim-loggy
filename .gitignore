@@ -1,0 +1,12 @@
+# composer
+vendor
+
+# Unit tests
+tests/coverage
+
+# QA
+phpunit.xml
+phpcs.ruleset.xml
+
+# Carpetas
+example
