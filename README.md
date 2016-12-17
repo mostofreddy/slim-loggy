@@ -5,7 +5,7 @@ Loggy Servicer Provider para Slim 3
 
 # Versión
 
-__0.1.0__
+__0.1.1__
 
 # License
 
