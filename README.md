@@ -33,6 +33,7 @@ Agregar en el archivo `composer.json`
 Registrar loggers
 -----------------
 
+Para registar el servicio se utiliza el componente [restyphp\slim-service-provider](https://github.com/mostofreddy/slim-service-provider)
 
 ```
 $config = [];
@@ -47,6 +48,8 @@ $app->add('\Resty\Slim\ServiceProviderMiddleware');
 
 Configuración de loggers
 ---------------------
+
+Para mas detalles en la configuración ver la documentacion de [loggy](https://github.com/mostofreddy/loggy)
 
 ```
 $config = [];
@@ -86,10 +89,10 @@ $app->get('/', function (ServerRequestInterface $request, ResponseInterface $res
     $loggerOtro = $this->get("logger_otro");
 
     $logger->debug("esto es un mensaje ".rand());
-    $loggerOtro->debug("esto es un mensaje otro ".rand());
+    $loggerOtro->debug("esto es un otro mensaje ".rand());
 
     $body = $response->getBody();
-    $body->write("bla");
+    $body->write("mi mensaje");
     return $response;
 });
 ```
