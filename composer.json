@@ -1,7 +1,7 @@
 {
     "name": "restyphp/slim-loggy",
     "description": "Loggy Servicer Provider para Slim 3",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "keywords": ["slim", "microframework", "slim3", "logger", "log", "provider", "psr3"],
     "homepage": "https://github.com/mostofreddy/slim-loggy",
     "type": "library",
@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=7.0.0",
-        "mostofreddy/loggy": "dev-master",
+        "mostofreddy/loggy": "1.0.*",
         "restyphp/slim-service-provider": "0.2.*"
     },
     "require-dev": {

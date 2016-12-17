@@ -4,12 +4,12 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "55c4a5f921d4dc4fdac7d9ad09438c80",
-    "content-hash": "2cd87e66a2a6d5030056f72577bca4cc",
+    "hash": "106d5cce4a9f7aed9c78377e1b436a27",
+    "content-hash": "81a92c65c2c04e05d116cafaec91d8e7",
     "packages": [
         {
             "name": "mostofreddy/loggy",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mostofreddy/loggy.git",
@@ -108,16 +108,16 @@
         },
         {
             "name": "restyphp/slim-service-provider",
-            "version": "0.2.1",
+            "version": "0.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mostofreddy/slim-service-provider.git",
-                "reference": "67bf6f196ea6b84ea6658329f835b833ee58370d"
+                "reference": "376023b35eaf4c7eddfb5216fb5edbcb7ab3be22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mostofreddy/slim-service-provider/zipball/67bf6f196ea6b84ea6658329f835b833ee58370d",
-                "reference": "67bf6f196ea6b84ea6658329f835b833ee58370d",
+                "url": "https://api.github.com/repos/mostofreddy/slim-service-provider/zipball/376023b35eaf4c7eddfb5216fb5edbcb7ab3be22",
+                "reference": "376023b35eaf4c7eddfb5216fb5edbcb7ab3be22",
                 "shasum": ""
             },
             "require": {
@@ -157,7 +157,7 @@
                 "service provider",
                 "slim"
             ],
-            "time": "2016-12-17 13:54:26"
+            "time": "2016-12-17 15:53:30"
         }
     ],
     "packages-dev": [
@@ -1787,9 +1787,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "mostofreddy/loggy": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
