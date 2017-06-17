@@ -1,6 +1,13 @@
 Changelog
 =========
 
+__0.2.0__
+
+* Add - Middleware
+* Add - Header Slim-Loggy-uid para troubleshooting
+* Remove - Service Provider
+* Change - Configuracion del logger
+
 __0.1.2__
 
 * Update - Loggy version
