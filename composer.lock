@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "85d812cdcb5379f1ba427aeb81b5580d",
+    "content-hash": "39c273daf2b3c5a07c31f6d333968dbc",
     "packages": [
         {
             "name": "mostofreddy/loggy",
-            "version": "1.1.2",
+            "version": "1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mostofreddy/loggy.git",
-                "reference": "524da8a05a704dd968de9febbafec70100e9e6f9"
+                "reference": "f069bab68c8c111872176d305e664d569314ccde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mostofreddy/loggy/zipball/524da8a05a704dd968de9febbafec70100e9e6f9",
-                "reference": "524da8a05a704dd968de9febbafec70100e9e6f9",
+                "url": "https://api.github.com/repos/mostofreddy/loggy/zipball/f069bab68c8c111872176d305e664d569314ccde",
+                "reference": "f069bab68c8c111872176d305e664d569314ccde",
                 "shasum": ""
             },
             "require": {
@@ -56,7 +56,7 @@
                 "loggy",
                 "psr-3"
             ],
-            "time": "2017-06-17T17:30:59+00:00"
+            "time": "2017-06-27T02:57:39+00:00"
         },
         {
             "name": "psr/log",
@@ -1289,16 +1289,16 @@
         },
         {
             "name": "sebastian/environment",
-            "version": "3.0.3",
+            "version": "3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/environment.git",
-                "reference": "02b6b2c7aefe2cdb1185b8dbf8718b0bcedf3ab3"
+                "reference": "74776f8dbc081cab9287c2a601c0c1d842568744"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/02b6b2c7aefe2cdb1185b8dbf8718b0bcedf3ab3",
-                "reference": "02b6b2c7aefe2cdb1185b8dbf8718b0bcedf3ab3",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/74776f8dbc081cab9287c2a601c0c1d842568744",
+                "reference": "74776f8dbc081cab9287c2a601c0c1d842568744",
                 "shasum": ""
             },
             "require": {
@@ -1335,7 +1335,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2017-05-18T10:10:00+00:00"
+            "time": "2017-06-20T16:25:05+00:00"
         },
         {
             "name": "sebastian/exporter",
