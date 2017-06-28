@@ -32,7 +32,7 @@ Agregar en el archivo `composer.json`
 Documentación
 -------------
 
-Documentación y API en [Wiki](https://github.com/mostofreddy/resty-json-api-error/wiki)
+Documentación y API en [Wiki](https://github.com/mostofreddy/slim-loggy/wiki)
 
 License
 -------
