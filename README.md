@@ -1,3 +1,5 @@
+**Deprecated**
+
 Loggy Middleware para Slim 3
 =================
 
